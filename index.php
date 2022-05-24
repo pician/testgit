@@ -13,6 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         // put your code here
         echo 'cc';
         echo 'dd';
+        echo 'ff';
         ?>
     </body>
 </html>
